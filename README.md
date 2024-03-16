@@ -5,6 +5,6 @@
 
 # Установка проекта
 - установите python 3.11 или выше
-- скачайте проект при помощи git clone 
+- скачайте проект при помощи git clone https://github.com/Levipanic/TrakingAchievementsMed
 - запустите командой python3 <название файла>
 
